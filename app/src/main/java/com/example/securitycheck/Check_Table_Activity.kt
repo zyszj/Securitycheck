@@ -47,6 +47,8 @@ class Check_Table_Activity : AppCompatActivity(){
         questionList.add(Item("13", true))
         questionList.add(Item("14", true))
         questionList.add(Item("15", true))
+        questionList.add(Item("16", true))
+
     }
 }
 
